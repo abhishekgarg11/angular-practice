@@ -5,7 +5,7 @@ selector:'app-server',
 templateUrl:'./server.component.html'
 })
 export class ServerComponent{
-serverId:number =10;
+serverId:number =11;
 serverStatus:string ='Offline'
 
 }
